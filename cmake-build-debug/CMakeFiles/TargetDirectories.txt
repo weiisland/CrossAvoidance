@@ -1,3 +1,0 @@
-/Users/wuyineng/CLionProjects/CrossAvoidanceAlgo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/wuyineng/CLionProjects/CrossAvoidanceAlgo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/wuyineng/CLionProjects/CrossAvoidanceAlgo/cmake-build-debug/CMakeFiles/CrossAvoidanceAlgo.dir
